@@ -17,8 +17,8 @@ Adventures Sports Inc. established in 2020, is an ecommerce sporting goods e-com
 -	Marketing Startegy : An analysis and recommendation on marketing strategy based on historic product sales performance, Coustomer demographics and seasonal trends.
 ## Data Model & Initial checks
 Adventure’s database structure as seen below consists of eight tables: Calander Lookup, Customer Lookup, Territory Lookup, Product Lookup, Product Subcategories Lookup and Product Category Lookup are the dimensions table. Sales Data and Return Order are the fact tables. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
+![image](https://github.com/user-attachments/assets/0b2b1893-0268-4750-8ab2-2f9632e02aec)
 
-![Modeling](https://github.com/user-attachments/assets/3f8af464-b9bf-47e6-919a-2f75e2daf2a5)
 ## Executive Summary
 ## Overview Of Findings
 After seeing a short decline from June 2020 till November 2020 there is consistent increase in revenue YOY with seasonal trends in play. Key Performance Indicator have shown that order volume has steadily increase from August 2021 while average order value has declined YOY. This decline can be broadly attributed to introduction of small ticket items like accessories and clothing. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
